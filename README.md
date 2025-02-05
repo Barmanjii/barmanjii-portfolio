@@ -1,2 +1,2 @@
 # barmanjii-portfolio
-Collection of Vijay Barman Wrok
+Collection of Vijay Barman Work
